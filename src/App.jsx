@@ -100,7 +100,7 @@ function About() {
             Building practical technology for ambitious teams
           </h2>
           <p className="mt-6 text-lg leading-8 text-slate-600">
-            I’m Shifanth Jasim, founder of SoftCloud Lanka and Senior Software Developer at <a href="https://dcanalytica.site/" target="_blank" rel="noreferrer" className="font-semibold text-blue-700 hover:text-blue-800">DcAnalytica</a> since 2020. I specialize in web development, cloud solutions, and cybersecurity.
+            I’m Shifanth Jasim, Founder &amp; CEO of SoftCloud Lanka, and Senior Software Developer at <a href="https://dcanalytica.site/" target="_blank" rel="noreferrer" className="font-semibold text-blue-700 hover:text-blue-800">DcAnalytica</a> since 2020.
           </p>
           <p className="mt-4 text-lg leading-8 text-slate-600">
             My mission is to help startups and small companies grow with modern technology that is secure, scalable, and easy to use.
