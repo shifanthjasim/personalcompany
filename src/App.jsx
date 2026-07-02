@@ -57,6 +57,7 @@ function Hero() {
             <span className="inline-flex items-center rounded-full border border-blue-200 bg-blue-50 px-3 py-1 text-sm font-medium text-blue-700">
               Solo-tech startup • Sri Lanka
             </span>
+            
           </div>
           <h1 className="mt-6 text-4xl font-semibold tracking-tight text-slate-900 sm:text-5xl lg:text-6xl opacity-0 animate-[fadeInUp_0.9s_ease-out_0.15s_forwards]">
             Empowering Businesses with Modern Technology
