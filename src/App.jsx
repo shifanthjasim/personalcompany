@@ -52,9 +52,12 @@ function Hero() {
     <section id="home" className="relative overflow-hidden bg-gradient-to-br from-slate-50 via-white to-blue-50">
       <div className="mx-auto max-w-7xl px-6 py-20 lg:px-8 lg:py-28">
         <div className="max-w-3xl">
-          <span className="inline-flex items-center rounded-full border border-blue-200 bg-blue-50 px-3 py-1 text-sm font-medium text-blue-700 opacity-0 animate-[fadeInUp_0.8s_ease-out_forwards]">
-            Solo-tech startup • Sri Lanka
-          </span>
+          <div className="flex items-center gap-3 opacity-0 animate-[fadeInUp_0.8s_ease-out_forwards]">
+            <img src="/logo.png" alt="SoftCloud Lanka logo" className="h-12 w-12 rounded-2xl border border-slate-200 bg-white p-1 shadow-sm" />
+            <span className="inline-flex items-center rounded-full border border-blue-200 bg-blue-50 px-3 py-1 text-sm font-medium text-blue-700">
+              Solo-tech startup • Sri Lanka
+            </span>
+          </div>
           <h1 className="mt-6 text-4xl font-semibold tracking-tight text-slate-900 sm:text-5xl lg:text-6xl opacity-0 animate-[fadeInUp_0.9s_ease-out_0.15s_forwards]">
             Empowering Businesses with Modern Technology
           </h1>
