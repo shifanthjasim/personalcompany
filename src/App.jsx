@@ -263,8 +263,9 @@ function App() {
     <div className="min-h-screen bg-slate-50 text-slate-800">
       <header className="sticky top-0 z-20 border-b border-slate-200/80 bg-white/80 backdrop-blur">
         <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 lg:px-8">
-          <a href="#home" className="text-lg font-semibold tracking-tight text-slate-900">
-            SoftCloud Lanka
+          <a href="#home" className="flex items-center gap-3 text-lg font-semibold tracking-tight text-slate-900">
+            <img src="/softcloud-favicon.png" alt="SoftCloud Lanka logo" className="h-8 w-auto rounded-md" />
+            <span>SoftCloud Lanka</span>
           </a>
           <div className="flex gap-4 text-sm font-medium text-slate-600">
             <a href="#about" className="transition hover:text-blue-700">About</a>
